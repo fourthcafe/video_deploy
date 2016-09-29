@@ -1,0 +1,6 @@
+{
+	"shareDir": "C:\\dev\\source\\origin\\",
+	"liveRootDir": "C:\\dev\\source\\dest\\",
+	"apiURL": "http://10.0.0.220:15475/deployed",
+	"ffmpegExec": "C:\\dev\\ffmpeg\\bin\\ffmpeg"
+}
